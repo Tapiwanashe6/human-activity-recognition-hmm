@@ -1,0 +1,5 @@
+activity,files,total_seconds,shortest_seconds,longest_seconds
+standing,13,111.88,8.38,8.98
+walking,13,111.56,8.28,9.08
+still,12,101.5,7.7,8.78
+jumping,12,101.58,8.3,8.72

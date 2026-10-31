@@ -1,0 +1,5 @@
+activity,rows,duration_s,checks_passed
+jumping,417,8.32,True
+standing,430,8.58,True
+still,419,8.36,True
+walking,425,8.48,True

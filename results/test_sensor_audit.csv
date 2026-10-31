@@ -1,0 +1,9 @@
+activity,sensor,rows,duration_s,sampling_hz,invalid_values,nonincreasing_elapsed,nonincreasing_timestamps,gaps_over_100ms
+jumping,Accelerometer.csv,446,8.92210302734375,49.87579757439981,0,0,0,0
+jumping,Gyroscope.csv,447,8.942183349609374,49.87579757439981,0,0,0,0
+standing,Accelerometer.csv,459,9.180526123046874,49.87579757440202,0,0,0,0
+standing,Gyroscope.csv,460,9.20054541015625,49.87579757440202,0,0,0,0
+still,Accelerometer.csv,449,8.983172119140626,49.87579757439981,0,0,0,0
+still,Gyroscope.csv,450,9.003282958984375,49.87579757439981,0,0,0,0
+walking,Accelerometer.csv,456,9.119850830078127,49.87579757440202,0,0,0,0
+walking,Gyroscope.csv,456,9.119850585937499,49.87640490483369,0,0,0,0

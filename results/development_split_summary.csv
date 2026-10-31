@@ -1,0 +1,5 @@
+activity,train,validation
+standing,10,3
+walking,10,3
+still,10,2
+jumping,10,2

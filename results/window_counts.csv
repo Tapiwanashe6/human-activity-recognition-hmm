@@ -1,0 +1,5 @@
+activity,train,validation
+standing,70,22
+walking,71,21
+still,69,14
+jumping,70,14
