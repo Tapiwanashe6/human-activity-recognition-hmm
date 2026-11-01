@@ -82,7 +82,14 @@ The report discusses single-participant/device limits, correlated features and o
 
 ## Submission status
 
-The notebook, dataset, report, and repository are present. **Four activity-video links still need to be added to the report before submission.** The report contains an explicit placeholder for each. Videos must meet the assignment's identity, lighting, full-body and activity requirements.
+The notebook, dataset, report, repository, and four collection-procedure demonstration links are present. The videos were supplied after the original data collection.
+
+- [Standing](https://drive.google.com/file/d/1QUiVj_csrjM6XIa-lDVVCkOiZzbeu0DR/view)
+- [Walking](https://drive.google.com/file/d/1s2xqKVC8-QuaCCDEWTfxXXPoRtafcGKu/view)
+- [Jumping](https://drive.google.com/file/d/1rkznCK0AWsudhUdM0mzNuLZbB6pqksPI/view)
+- [Still](https://drive.google.com/file/d/1DnH0OQ0jka3_4Ag5BcK0xkGUqxD1RH6i/view)
+
+Check that each video meets the assignment's duration, identity, lighting, full-body and activity requirements before submission.
 
 ## References
 
